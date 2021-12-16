@@ -1,3 +1,6 @@
+#Time complexity:O(n)
+#problem code: 2097 (https://leetcode.com/problems/watering-plants/)
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
